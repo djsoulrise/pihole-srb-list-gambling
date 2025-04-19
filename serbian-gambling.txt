@@ -63,3 +63,10 @@
 0.0.0.0 pokloni-danassrbija.com
 0.0.0.0 osvoji-telefon.net
 0.0.0.0 testiraj-proizvod.xyz
+r[0-9]+---sn-.*\.googlevideo\.com
+.*googleads.* 
+.*doubleclick\.net
+.*youtube.*ad
+yt3.ggpht.com
+manifest.googlevideo.com
+s.ytimg.com
