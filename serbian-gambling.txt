@@ -1,7 +1,9 @@
 0.0.0.0 mozzartbet.com
+0.0.0.0 www.mozzartbet.com
 0.0.0.0 maxbet.rs
 0.0.0.0 soccerbet.rs
 0.0.0.0 meridianbet.rs
+0.0.0.0 www.meridianbet.rs
 0.0.0.0 merkurxtip.rs
 0.0.0.0 balkanbet.rs
 0.0.0.0 admiralbet.rs
@@ -19,3 +21,45 @@
 0.0.0.0 rizk.rs
 0.0.0.0 wwin.com
 0.0.0.0 betole.com
+0.0.0.0 bet-at-home.com
+0.0.0.0 bet365.com
+0.0.0.0 betwinner.com
+0.0.0.0 1xbet.com
+0.0.0.0 lsbet.com
+0.0.0.0 vulkanbet.rs
+0.0.0.0 mrbet.rs
+0.0.0.0 tipico.com
+0.0.0.0 betcity.rs
+0.0.0.0 interwetten.com
+
+# 📢 Srpske i balkanske ad serveri
+0.0.0.0 ads.adriadaily.com
+0.0.0.0 banners.adsoft.rs
+0.0.0.0 adserbia.com
+0.0.0.0 ads.hellomagazin.rs
+0.0.0.0 reklame.biz
+0.0.0.0 baneri.rs
+0.0.0.0 adclick.rs
+0.0.0.0 tracking.netlog.rs
+
+# 💩 Spam / scam iz regiona
+0.0.0.0 srbija-danas.com
+0.0.0.0 vasglas.info
+0.0.0.0 ekskluziva.ba
+0.0.0.0 breakingnews.rs
+0.0.0.0 info-vesti.com
+0.0.0.0 dnevno.rs
+0.0.0.0 alo.rs
+0.0.0.0 espreso.rs
+0.0.0.0 kurir.rs
+0.0.0.0 republika.rs
+0.0.0.0 svet.rs
+0.0.0.0 pink.rs
+0.0.0.0 informer.rs
+
+# 🧪 Sumnjivi/tracking sajtovi (često koriste clickbait ili phish)
+0.0.0.0 promo-ponuda.net
+0.0.0.0 nagradnaigra-srbija.com
+0.0.0.0 pokloni-danassrbija.com
+0.0.0.0 osvoji-telefon.net
+0.0.0.0 testiraj-proizvod.xyz
